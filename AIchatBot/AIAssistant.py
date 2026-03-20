@@ -31,7 +31,7 @@ prompt=ChatPromptTemplate.from_messages(
 #Streamlit framework -for ui related
 
 st.title("Your AI Assistant ! Langchain Demo Test With Groq API")
-input_text=st.text_input("Search the topic you want !")
+input_text=st.text_input("Search the topic you want to Query ? !")
 
 #LLM Call
 
