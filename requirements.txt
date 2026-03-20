@@ -21,3 +21,4 @@ langchain-text-splitters
 langchain_classic
 wikipedia
 arxiv
+langchainhub
